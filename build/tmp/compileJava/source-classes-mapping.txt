@@ -16,8 +16,8 @@ com/jojoldu/book/springboot/web/dto/PostsResponseDto.java
  com.jojoldu.book.springboot.web.dto.PostsResponseDto
 com/jojoldu/book/springboot/domain/posts/PostsRepository.java
  com.jojoldu.book.springboot.domain.posts.PostsRepository
-com/jojoldu/book/springboot/web/IndexController.java
- com.jojoldu.book.springboot.web.IndexController
+com/jojoldu/book/springboot/config/auth/SecurityConfig.java
+ com.jojoldu.book.springboot.config.auth.SecurityConfig
 com/jojoldu/book/springboot/web/dto/PostsSaveRequestDto.java
  com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto
  com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
@@ -41,5 +41,11 @@ com/jojoldu/book/springboot/web/HelloController.java
  com.jojoldu.book.springboot.web.HelloController
 com/jojoldu/book/springboot/domain/user/Role.java
  com.jojoldu.book.springboot.domain.user.Role
-com/jojoldu/book/springboot/config/auth/SecurityConfig.java
- com.jojoldu.book.springboot.config.auth.SecurityConfig
+com/jojoldu/book/springboot/web/IndexController.java
+ com.jojoldu.book.springboot.web.IndexController
+com/jojoldu/book/springboot/config/auth/LoginUser.java
+ com.jojoldu.book.springboot.config.auth.LoginUser
+com/jojoldu/book/springboot/config/auth/LoginUserArgumentResolver.java
+ com.jojoldu.book.springboot.config.auth.LoginUserArgumentResolver
+com/jojoldu/book/springboot/config/WebMvcConfig.java
+ com.jojoldu.book.springboot.config.WebMvcConfig
